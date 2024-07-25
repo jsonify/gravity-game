@@ -1,0 +1,57 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1721917347
+icon.svg::CompressedTexture2D::5687499836335297023::1721916114::1721916121::1::::<><>::
+::res://Assets/::1721917378
+::res://Assets/Enemies/::1721917420
+bettle.png::CompressedTexture2D::2437241466376755218::1721917420::1721917420::1::::<><>::
+crab-idle.png::CompressedTexture2D::1235125736246796746::1721917339::1721917347::1::::<><>::
+crab-walk.png::CompressedTexture2D::5604007677875011683::1721917339::1721917347::1::::<><>::
+dino-idle.png::CompressedTexture2D::5370590215079243057::1721917420::1721917420::1::::<><>::
+dino.png::CompressedTexture2D::5340857085925443295::1721917420::1721917420::1::::<><>::
+dog-idle.png::CompressedTexture2D::3115649617037907312::1721917420::1721917420::1::::<><>::
+dog.png::CompressedTexture2D::4695143300764206708::1721917420::1721917420::1::::<><>::
+jumper-idle.png::CompressedTexture2D::5745556518517870922::1721917339::1721917347::1::::<><>::
+jumper-jump.png::CompressedTexture2D::1794073627649202530::1721917339::1721917347::1::::<><>::
+octopus.png::CompressedTexture2D::8539798550640512492::1721917339::1721917347::1::::<><>::
+slimer-idle.png::CompressedTexture2D::7373339069859690871::1721917420::1721917420::1::::<><>::
+slimer.png::CompressedTexture2D::1198504073243559570::1721917420::1721917420::1::::<><>::
+vulture-idle.png::CompressedTexture2D::868815199063299586::1721917420::1721917420::1::::<><>::
+vulture.png::CompressedTexture2D::6918381479126335011::1721917420::1721917420::1::::<><>::
+::res://Assets/Environment/::1721917257
+::res://Assets/Environment/Backgrounds/::1721917227
+background.png::CompressedTexture2D::3183949687133182970::1721917227::1721917227::1::::<><>::
+middleground-no-fungus.png::CompressedTexture2D::8825428687645948064::1721917227::1721917227::1::::<><>::
+middleground.png::CompressedTexture2D::2802520902341544057::1721917227::1721917227::1::::<><>::
+::res://Assets/Environment/Props/::1721917270
+props.png::CompressedTexture2D::6885896938142802606::1721917270::1721917270::1::::<><>::
+::res://Assets/Environment/Tilesets/::1721917201
+tilesets.png::CompressedTexture2D::2448693757271221857::1721917201::1721917201::1::::<><>::
+walls.png::CompressedTexture2D::3940991114740958400::1721917201::1721917201::1::::<><>::
+::res://Assets/Fx/::1721917378
+enemy-death.png::CompressedTexture2D::3083410720665626087::1721917378::1721917378::1::::<><>::
+impact.png::CompressedTexture2D::9061850962976155953::1721917378::1721917378::1::::<><>::
+power-up.png::CompressedTexture2D::2251548260434025618::1721917378::1721917378::1::::<><>::
+shot.png::CompressedTexture2D::7303476918423573576::1721917378::1721917378::1::::<><>::
+::res://Assets/Player/::1721917323
+player-cling.png::CompressedTexture2D::2011400392676106594::1721917316::1721917323::1::::<><>::
+player-duck.png::CompressedTexture2D::3054936017340277778::1721917316::1721917323::1::::<><>::
+player-hurt.png::CompressedTexture2D::2957858267037424722::1721917316::1721917323::1::::<><>::
+player-idle.png::CompressedTexture2D::2932419639504704504::1721917316::1721917323::1::::<><>::
+player-jump.png::CompressedTexture2D::522319242244603224::1721917316::1721917323::1::::<><>::
+player-run-shoot.png::CompressedTexture2D::2740524462735222178::1721917316::1721917323::1::::<><>::
+player-run.png::CompressedTexture2D::5274055652494361694::1721917316::1721917323::1::::<><>::
+player-shoot-up.png::CompressedTexture2D::1017625887911859866::1721917316::1721917323::1::::<><>::
+player-stand.png::CompressedTexture2D::1079695956634660910::1721917316::1721917323::1::::<><>::
+::res://Modules/::1721916167
+::res://Modules/Input/::1721916167
+input_module.gd::GDScript::-1::1721916167::0::1::::INPUT<>Node2D<>::
+input_module.tscn::PackedScene::4555355592318575924::1721916167::0::1::::<><>::res://Modules/Input/input_module.gd
+::res://Modules/Input/Player Input/::1721916167
+player_input_module.gd::GDScript::-1::1721916167::0::1::::PLAYER_INPUT<>INPUT<>::
+player_input_module.tscn::PackedScene::3185712238264636638::1721916167::0::1::::<><>::res://Modules/Input/Player Input/player_input_module.gd
+::res://Modules/Movement Modules/::1721916167
+::res://Modules/Movement Modules/Velocity/::1721916167
+velocity_module.gd::GDScript::-1::1721916167::0::1::::Velocity<>Node2D<>::
+velocity_module.tscn::PackedScene::2973036793164282898::1721916167::0::1::::<><>::res://Modules/Movement Modules/Velocity/velocity_module.gd
+::res://Resources/::1721916167
+::res://Scenes/::1721916167
